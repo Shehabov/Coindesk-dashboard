@@ -4,11 +4,15 @@
 
 <br>
 
-**DESIGNERS =>** <br>
+**Designers =>** <br>
+
 [Manoj Rajput and Mind inventory](https://www.behance.net/gallery/63672347/Coindesk-Dashboard)
 ![CoinDesk Design](https://mir-s3-cdn-cf.behance.net/project_modules/1400/08a50863672347.5ab8d7a978c49.png)
-
 <br>
+[Shehab Beram](https://www.linkedin.com/in/shehab-beram/)
+
+**Developer =>** <br>
+
 
 ## Getting Started
 
