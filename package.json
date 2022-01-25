@@ -1,0 +1,26 @@
+{
+  "name": "coindesk-dashboard",
+  "version": "0.0.1",
+  "description": "A fictional dashboard for coindesk",
+  "homepage": "https://coindesk-dashboard.netlify.app",
+  "repository": "https://github.com/developerruhul/coindesk-dashboard",
+  "author": "Developer Ruhul <ruhulamin.webdev@gmail.com>",
+  "license": "MIT",
+  "private": false,
+  "devDependencies": {
+    "autoprefixer": "^10.2.5",
+    "babel-core": "^6.26.3",
+    "babel-preset-env": "^1.7.0",
+    "parcel": "^1.12.1",
+    "postcss": "^8.1.0",
+    "sass": "^1.32.8"
+  },
+  "scripts": {
+    "start": "parcel ./src/index.html",
+    "build": "parcel build ./src/index.html"
+  },
+  "dependencies": {
+    "chart.js": "^2.7.3",
+    "svgxuse": "^1.2.6"
+  }
+}
