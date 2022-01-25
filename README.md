@@ -2,6 +2,7 @@
 
 - Everything about cryptocurrency (e.g Bitcoin) in one place. Minimalist and intuitive dashboard.
 
+<br>
 
 **DESIGNER =>** 
 [Manoj Rajput and Mind inventory](https://www.behance.net/gallery/63672347/Coindesk-Dashboard)
