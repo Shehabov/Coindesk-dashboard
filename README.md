@@ -1,4 +1,4 @@
-# CoinDesk *(INTERFACE)*
+# CoinDesk 
 
 - Everything about cryptocurrency (e.g Bitcoin) in one place. Minimalist and intuitive dashboard.
 
