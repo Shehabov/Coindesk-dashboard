@@ -4,17 +4,21 @@
 
 <br>
 
-**DESIGNER =>** 
+**DESIGNERS =>** <br>
 [Manoj Rajput and Mind inventory](https://www.behance.net/gallery/63672347/Coindesk-Dashboard)
 ![CoinDesk Design](https://mir-s3-cdn-cf.behance.net/project_modules/1400/08a50863672347.5ab8d7a978c49.png)
+
+<br>
 
 ## Getting Started
 
 Follow these simple steps to have a copy of the project in your local machine.
+<br>
 
 ### Prerequisites
 
 You should already have **node.js** running in your machine.
+<br>
 
 ### Installing
 To have a copy of the project, clone the repo or download the zip file.
@@ -36,6 +40,3 @@ yarn run start
 
 The server should start on port 3000. [localhost](http://localhost:3000)
 
-
-
-# SHOW YOUR SUPPORT BY 🌟 the project
